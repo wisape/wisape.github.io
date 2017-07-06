@@ -1,2 +1,2 @@
 # wisape.github.io
-Wisape Studio
+Wisape Blog
